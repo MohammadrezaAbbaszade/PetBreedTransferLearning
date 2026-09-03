@@ -1,0 +1,18 @@
+# Dataset (1.6 GB — never commit)
+data/
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
